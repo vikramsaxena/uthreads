@@ -1,4 +1,4 @@
-# User-Level Thread Library
+# Rutgers: CS518 - Operating Systems Design
 
 ## Abstract
 
