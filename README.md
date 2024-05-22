@@ -1,4 +1,4 @@
-# Rutgers: CS518 - Operating Systems Design
+# Rutgers University: CS518 - Operating Systems Design
 
 ## Abstract
 
